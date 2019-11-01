@@ -18,7 +18,7 @@ int main(void){
 	
 	}	
 	
-	{//case b
+	{//case bgi
 		int i,j,neg;
 		double x,sum,exp;
 		printf("S=1/x^1-1/x^3+...-1/x^11");
@@ -36,4 +36,4 @@ int main(void){
 	}
 	return 0;
 }
-//hello 
+//¬O¦bhello
